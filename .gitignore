@@ -4,8 +4,6 @@
 ###################
 # compiled source #
 ###################
-*.sln
-*.csproj
 *.com
 *.class
 *.dll
